@@ -1,0 +1,9 @@
+flask
+flask-cors
+sentence-transformers
+faiss-cpu
+transformers
+requests
+pyttsx3
+dotenv
+gunicorn
