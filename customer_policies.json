@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Lakshman",
+        "policynumber": "3455678999",
+        "purchasedate": "17 Jan 2025",
+        "duedate": "24 Jan 2025",
+        "premium": "5 year term, premium due",
+        "status": "Revival conversation",
+        "company": "Anderson Bank"
+    },
+    {
+        "name": "Tunil Ji",
+        "policynumber": "166590593",
+        "purchasedate": "15 Feb 2025",
+        "duedate": "25 Feb 2025",
+        "premium": "12-year term, premium unpaid",
+        "status": "Revival required",
+        "company": "Tata AIA"
+    },
+    {
+        "name": "Shantanu Guha",
+        "policynumber": "C206589794",
+        "purchasedate": "28 Mar 2025",
+        "duedate": "28 Mar 2025",
+        "premium": "₹45,000 annual premium",
+        "status": "5 years paid, last premium due",
+        "company": "Tata Life Insurance"
+    },
+    {
+        "name": "Kailas Pathwa",
+        "policynumber": "C183626615",
+        "purchasedate": "9 Apr 2025",
+        "duedate": "9 Apr 2025",
+        "premium": "₹5,282/year",
+        "status": "Reduced paid-up, revival needed",
+        "company": "Tata AIA"
+    },
+    {
+        "name": "Hara Prasad",
+        "policynumber": "C207175178",
+        "purchasedate": "12 May 2025",
+        "duedate": "15 Jun 2025",
+        "premium": "₹1,29,099 pending",
+        "status": "Lapsed, manual payment needed",
+        "company": "IndusInd Bank"
+    },
+    {
+        "name": "Rizwan Ji",
+        "policynumber": "3196762595",
+        "purchasedate": "3 Jun 2025",
+        "duedate": "20 Jul 2025",
+        "premium": "Late fee applies",
+        "status": "Pending with late fee",
+        "company": "Tata AIA"
+    }
+]
