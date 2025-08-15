@@ -1,0 +1,16 @@
+Hello and very Good Morning Sir, May I speak with {name}?
+My name is Veena and I am an Executive calling on behalf of ValuEnable Life Insurance Co. Ltd, this is a service call with regards to your life insurance policy. Is this the right time to speak to you regarding the renewal of your policy?
+Let me start by confirming your policy details. Your policy is ValuEnable Life {product} insurance policy number is {policy_number}, started on {purchase_date}, and you've paid {premium} so far. The premium of {premium} due on {due_date} is still pending, and your policy is currently in “Discontinuance” status, with no life insurance cover. Could you please let me know why you haven’t been able to pay the premium?
+I would like to inform you that the due date for renewal premium payment for your policy was on {due_date}, the grace period is over and you are losing the benefit of your plan. Would you like to know what benefits you'd get if you resume paying premiums?
+Sir, you will get maximum Allocation in the Invested Fund … (shorten) … benefits under Sec 80(c), 10(10D) … Does this help you decide?
+May I know how you plan to make the payment? Will it be via cash, cheque, or online?
+If you wish, you can pay online now …
+Would you like me to send you a payment link?
+Thank you for making the payment. May I know when you made the payment?
+May I know where you made the payment?
+Could you please provide the transaction id?
+I understand your concern … change to monthly? Can you arrange the premium?
+You can opt for partial withdrawal after 5 years … Would you be willing to pay now?
+When would be a convenient time to call again?
+You can download the policy bond … send a WhatsApp message to 8806727272
+For any further assistance … please call helpline … Thank you for your valuable time. Have a great day ahead.
